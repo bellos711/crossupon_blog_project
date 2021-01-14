@@ -1,0 +1,19 @@
+.FieldInfo{
+  color: orange;
+  font-family: Trebuchet MS, sans-serif,"Times New Roman",Times,serif;
+  font-size: 1.2em;
+}
+
+.CommentBlock{
+  background-color: #e6eaef;
+}
+
+.heading{
+  color:  #454545;
+  font-family: Trebuchet MS, sans-serif,"Times New Roman",Times,serif;
+  font-weight: bold;
+}
+
+.heading:hover{
+  color: #0080ff;
+}
